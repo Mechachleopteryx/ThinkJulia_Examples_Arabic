@@ -1,7 +1,7 @@
 # ThinkJulia_Examples_Arabic
 Notebooks with supporting exercices for ThinkJulia book in Arabic.
 
-- [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/faris-digital/ThinkJulia_Examples_Arabic/master)
+- [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/faris-digital/ThinkJulia_Examples_Arabic/master?urlpath=lab)
 
 
 + [00 Introduction - تمهيد](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebooks/00_Introduction.ipynb)
