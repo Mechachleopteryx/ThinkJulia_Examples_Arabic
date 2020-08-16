@@ -1,13 +1,13 @@
 # ThinkJulia_Examples_Arabic
 Notebooks with supporting exercices for ThinkJulia book in Arabic.
 
-+ [00 Introduction - تمهيد](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebook/00_Introduction.ipynb)
++ [00 Introduction - تمهيد](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebooks/00_Introduction.ipynb)
 
-+ [01 The Way of the Program - سبيل البرنامج](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebook/01_the_way_of_the_program.ipynb)
++ [01 The Way of the Program - سبيل البرنامج](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebooks/01_the_way_of_the_program.ipynb)
 
-+ [02 Variables, Expressions, Statements - متغيرات عبارات تعليمات](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebook/02_Variables_Expressions_Statements.ipynb)
++ [02 Variables, Expressions, Statements - متغيرات عبارات تعليمات](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebooks/02_Variables_Expressions_Statements.ipynb)
 
-+ [03 Functions - الدوال](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebook/03_Variables.ipynb)
++ [03 Functions - الدوال](https://nbviewer.jupyter.org/github/faris-digital/ThinkJulia_Examples_Arabic/blob/master/notebooks/03_Variables.ipynb)
 
 + 04 Case Study: Interface Design Turtles
 
