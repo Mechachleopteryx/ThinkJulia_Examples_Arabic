@@ -1,3 +1,4 @@
 [deps]
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
 ThinkJulia = "a7f2b756-c18b-4c7f-87da-faca9ac81b29"
